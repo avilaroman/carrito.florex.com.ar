@@ -13,5 +13,5 @@ sizes:
 styles:
   - name: 1 Rosa roja
     color: '#ff0000'
-    image: florex.com.ar/images/1 Red rose bouquet.jpg
+    image: /images/1 Red rose bouquet.jpg
 ---
