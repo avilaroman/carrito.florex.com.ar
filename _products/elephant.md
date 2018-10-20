@@ -5,7 +5,7 @@ description_markdown: >-
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Para Regalo
 garment_type:
 price: '300.00'
 sku: elephant
