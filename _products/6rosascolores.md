@@ -9,7 +9,7 @@ description_markdown: >-
   6 Rosas de colores
 garment_type:
 price: '300.00'
-sku: lion
+sku: 6rosascolores
 stock: 10
 sizes:
   - Envío incluído
