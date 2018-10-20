@@ -1,32 +1,17 @@
 ---
-name: Sacha the Deer
+name: 1 Rosa Roja con tarjeta
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  1 Rosa Roja con tarjeta de dedicación para el destinatario.
+  
+  Envoltorio de regalo, para un presente importante.
 garment_type:
-price: '9.00'
-sku: deer
+price: '140.00'
+sku: 1_Rosa_Roja
 stock: 10
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Preparado para regalo
 styles:
-  - name: Black
-    color: '#000000'
-    image: /images/products/deer/black.jpg
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/deer/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/deer/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+  - name: 1 Rosa roja
+    color: '#ff0000'
+    image: http://108florist.com.sg/wp-content/uploads/2015/09/Promotion-06-Rose-1-121.jpg
 ---
