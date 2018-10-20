@@ -6,7 +6,7 @@ description_markdown: >-
   Envoltorio de regalo, para un presente importante.
 garment_type:
 price: '140.00'
-sku: 1_Rosa_Roja
+sku: 1rosa
 stock: 10
 sizes:
   - Preparado para regalo
