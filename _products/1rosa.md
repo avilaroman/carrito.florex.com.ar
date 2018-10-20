@@ -13,5 +13,5 @@ sizes:
 styles:
   - name: 1 Rosa roja
     color: '#ff0000'
-    image: http://108florist.com.sg/wp-content/uploads/2015/09/Promotion-06-Rose-1-121.jpg
+    image: florex.com.ar/images/1 Red rose bouquet.jpg
 ---
