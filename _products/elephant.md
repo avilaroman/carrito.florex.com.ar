@@ -1,26 +1,20 @@
 ---
-name: Bumble the Elephant
+name: Media Docena de Rosas Rojas
 description_markdown: >-
-  Bumble the humble elephant is your shining star. He will always remember who
-  you are and why you are here.
+  Ramo de 6 rosas rojas. Envío a Domicilio Bonificado.
 
 
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: '300.00'
 sku: elephant
 stock: 10
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Envoltorio
 styles:
-  - name: Cream
+  - name: Rosas en ramo
     color: '#dfd3c2'
-    image: /images/products/elephant/cream.jpg
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/elephant/green.jpg
+    image: https://daflores-fdsqhba.netdna-ssl.com/images/product_big_0289.jpg
+
 ---
