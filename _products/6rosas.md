@@ -8,7 +8,7 @@ description_markdown: >-
   Para Regalo
 garment_type:
 price: '300.00'
-sku: elephant
+sku: 6rosas
 stock: 10
 sizes:
   - Envoltorio
