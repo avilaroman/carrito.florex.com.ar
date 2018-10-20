@@ -1,23 +1,20 @@
 ---
-name: Scar the Lion
+name: 1/2 Docena de Rosas de Colores
 description_markdown: >-
-  Scar the lion is always true to himself. The Mufasa tragedy was a slight
-  blemish in what was otherwise a saint-like life.
+  
+  6 Rosas de colores varios. Conforman un regalo ideal para un presente.
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  6 Rosas de colores
 garment_type:
-price: '9.00'
+price: '300.00'
 sku: lion
 stock: 10
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Envío incluído
 styles:
-  - name: Blue
+  - name: Colores mixtos
     color: '#39589e'
-    image: /images/products/lion/blue.jpg
+    image: /images/Rosas de colores.jpg
 ---
