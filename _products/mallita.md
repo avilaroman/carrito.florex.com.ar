@@ -8,7 +8,7 @@ description_markdown: >-
   Envío incluído
 garment_type:
 price: '300.00'
-sku: tiger
+sku: mallita
 stock: 10
 sizes:
   - Envío incluído
