@@ -1,31 +1,31 @@
 ---
-title: Contact
-description: Get in touch
-email: fur@example.com
-hero: Get in touch
+title: Contacto
+description: Estar en contacto.
+email: ventas@florex.com.ar
+hero: Estar en contacto.
 map:
-  latitude: -45.873511
-  longitude: 170.503704
-  address: 'Dunedin, New Zealand'
+  latitude: -26.8167
+  longitude: -65.2167
+  address: 'San Miguel de Tucumán, Argentina'
   zoom: 13
 ---
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-		<h3>Send us a message</h3>
-		<label for="name">Full Name</label>
-		<input type="text" name="name" id="name" placeholder="Enter your name..." autofocus>
+		<h3>Mandanos un mensaje:</h3>
+		<label for="name">Nombre completo</label>
+		<input type="text" name="name" id="name" placeholder="Ingresa tu nombre..." autofocus>
 
-		<label for="email">Email Address</label>
-		<input type="email" name="email" id="email" placeholder="Enter your email..." required inputmode="email">
+		<label for="email">E-mail</label>
+		<input type="email" name="email" id="email" placeholder="Ingresa tu e-mail..." required inputmode="email">
 
-		<label for="message">Message</label>
-		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+		<label for="message">Mensaje</label>
+		<textarea name="message" id="message" placeholder="Tu mensaje..."></textarea>
 
 		<input type="hidden" name="_to" value="{{ page.email }}">
 		<input type="text" name="_gotcha" style="display: none;">
 
-		<input type="submit" value="Send Message">
+		<input type="submit" value="Enviar Mensaje">
 	</form>
 
 	<div class="contact-details">
