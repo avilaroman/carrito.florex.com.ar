@@ -1,35 +1,22 @@
 ---
-name: Gavin the Tiger
+name: Mallita Natural
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
+  Ramo de flores mixtas envuelta con mallita natural. Ideal para un presente de ocación especial.
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Envío incluído
 garment_type:
-price: '9.00'
+price: '300.00'
 sku: tiger
 stock: 10
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Envío incluído
+
 styles:
-  - name: Black
-    color: '#000000'
-    image: /images/products/tiger/black.jpg
-  - name: Blue
+
+  - name: Mallita
     color: '#39589e'
-    image: /images/products/tiger/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/tiger/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/tiger/cream.jpg
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/tiger/green.jpg
+    image: /images/mallita.jpg
+ 
 ---
