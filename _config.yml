@@ -51,6 +51,11 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
+  -
+    scope:
+      path: "calendario.html"
+    values:
+      layout: "calendario"
 
 jekyll-archives:
   enabled:
