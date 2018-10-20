@@ -15,5 +15,5 @@ sizes:
 styles:
   - name: Green
     color: '#67aa79'
-    image: https://scontent-atl3-1.cdninstagram.com/vp/ddb24dec8dcdd7b04fcf4c5d451cfc11/5C61F693/t51.2885-15/e35/41685264_743940102614899_7749797904279315125_n.jpg
+    image: https://www.martaparraguez.cl/wp-content/uploads/2017/11/cod_061.jpg
 ---
