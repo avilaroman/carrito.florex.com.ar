@@ -36,6 +36,9 @@
 
 			<section class="hero">
 				<div class="text-container">
+					{% for post in site.posts %}
+						<img src="{{ site.baseurl }}/{{ images/todaslasflores.jpg }}">
+					{% endfor %}
 					{% if page.hero %}
 						<h2>{{ page.hero }}</h2>
 					{% elsif page.name %}
