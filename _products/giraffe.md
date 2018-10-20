@@ -1,23 +1,19 @@
 ---
-name: Gerald the Giraffe
+name: Armonía
 description_markdown: >-
-  Gerald the giraffe isn't particularly spiritual but he has a long neck which
-  can help you in a pinch.
+  Ramo de flores Armonía
 
 
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Envuelto para regalo.
 garment_type:
-price: '9.00'
-sku: giraffe
+price: '250.00'
+sku: armonia
 stock: 10
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Envío incluido
+
 styles:
   - name: Green
     color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
+    image: /images/products/armonia/armonia.jpg
 ---
