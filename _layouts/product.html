@@ -11,22 +11,20 @@ layout: default
 					{{ page.description_markdown | markdownify }}
 
 					<h4>${{ page.price }}</h4>
-					<a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=323111352-9302d8f1-ab7d-41ae-9200-81ec3bb78872" name="MP-payButton" class='blue-ar-l-rn-none'>Pagar con Mercadopago</a>
-<script type="text/javascript">
-(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-</script>
+					
 			<form action="https://formspree.io/avilaroman@gmail.com"
       method="POST">
     <input type="text" name="Nombre del Destinatario" placeholder="Nombre del destinatario">
     <input type="text" name="Dirección del Destinatario" placeholder="Dirección del Destinatario">				
     <input type="email" name="_replyto" placeholder="Tu e-mail" >
-    <input type="date" name="Enviar el dia">
+    Ingresar la fecha para ser enviado:
+    <input type="date" name="Enviar el dia" placeholder="Día del envío">
     <input type="text" name="hora" placeholder="Hora del envío" />
     <input type="text" name="Mensaje en la tarjeta:" placeholder="Ingresa el mensaje para la tarjeta" />
     <input type="hidden" name="_next" value="https://www.mercadopago.com/mla/checkout/start?pref_id=323111352-9302d8f1-ab7d-41ae-9200-81ec3bb78872" />
     <input type="hidden" name="_subject" value="Florex -> Nueva Compra" />
 				<input type="hidden" name="_language" value="es" />
-				<input type="submit" value="Enviar">
+				<input type="submit" value="Pagar con Mercadopago">
 </form>		
 				</div>
 			</div>
