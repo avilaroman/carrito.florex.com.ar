@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: Florex
+url: "http://florex.com.ar/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,16 +10,16 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Florex -Envíos de flores a domicilio en Tucumán.
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  name: Florex
+  email: ventas@Florex.com.ar
+  twitter: florex
+  phone: "+54 9381 533300"
 social:
-  name: Fur Template
+  name: Florex
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+    - https://florex.com.ar
 
 # -----
 # Build
@@ -86,12 +86,12 @@ social_icons:
   - RSS
 
 _comments:
-  map: Update the map location and display settings.
-  latitude: Coordinates for the center marker on the map.
-  longitude: Coordinates for the center marker on the map.
-  zoom: The zoom level for the map.
-  pricing_table: Update the information in the pricing tables.
-  highlight: Emphasis the text
-  color: The background color used in the plan name and call to action.
-  new_window: Open link in new window
-  description: This is used for facebook shares of the page and google indexing
+  map: actualiza la locacion en el mapa..
+  latitude: coordenadas para centrar el mapa.
+  longitude: coordenadas para centrar el mapa.
+  zoom: Zoom
+  pricing_table: actualizar la tabla de precios.
+  highlight: Poner emfasis en el texto
+  color: Elfondo usado en nombre para llamar la acción.
+  new_window: Abrir link en una nueva ventana
+  description: enviar Flores en tucuman, florex, envio de rosas, enviar rosa, enviar ramo de rosas, comparar rosa, mandar flores, mandar una flor, manda una flor, manda una rosa
