@@ -8,7 +8,7 @@ description_markdown: >-
   Envío incluido.
 garment_type:
 price: '200.00'
-sku: hog
+sku: variadas
 stock: 10
 sizes:
   - Envío en capital
