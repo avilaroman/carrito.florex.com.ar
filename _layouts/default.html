@@ -36,11 +36,12 @@
 
 			<section class="hero">
 				<div class="text-container">
+					{% include todaslasflores.html %}
 					{% if page.hero %}
 						<h2>{{ page.hero }}</h2>
 					{% elsif page.name %}
-						{% include todaslasflores.html %}
 						<h2>{{ page.name }}</h2>
+					
 					{% endif %}
 
 					{% if page.subtitle %}
