@@ -1,0 +1,17 @@
+---
+name: 3 Rosa Rojas con tarjeta
+description_markdown: >-
+  3 Rosa Rojas con tarjeta de dedicación para el destinatario.
+  
+  Envoltorio de regalo, para un presente importante.
+garment_type:
+price: '250.00'
+sku: 3 Rosas Rojas
+stock: 10
+sizes:
+  - Preparado para regalo
+styles:
+  - name: 3 Rosas roja
+    color: '#ff0000'
+    image: /images/1 Red rose bouquet.jpg
+---
