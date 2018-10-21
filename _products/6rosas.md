@@ -16,5 +16,4 @@ styles:
   - name: Rosas en ramo
     color: '#dfd3c2'
     image: florex.com.ar/images/6 red roses.jpg
-
 ---
