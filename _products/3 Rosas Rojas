@@ -13,5 +13,5 @@ sizes:
 styles:
   - name: 3 Rosas roja
     color: '#ff0000'
-    image: images/3 Red Rose.jpg
+    image: /images/3 Red Rose.jpg
 ---
