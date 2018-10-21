@@ -7,7 +7,7 @@ description_markdown: >-
 
   Para Regalo
 garment_type:
-price: '300.00'
+price: '630.00'
 sku: 6rosas
 stock: 10
 sizes:
