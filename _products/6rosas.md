@@ -15,6 +15,6 @@ sizes:
 styles:
   - name: Rosas en ramo
     color: '#dfd3c2'
-    image: https://daflores-fdsqhba.netdna-ssl.com/images/product_big_0289.jpg
+    image: florex.com.ar/images/6 red roses.jpg
 
 ---
