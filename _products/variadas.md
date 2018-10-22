@@ -7,7 +7,7 @@ description_markdown: >-
 
   Envío incluido.
 garment_type:
-price: '200.00'
+price: '790.00'
 sku: variadas
 stock: 10
 sizes:
