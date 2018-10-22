@@ -1,0 +1,20 @@
+---
+name: Una Docena de Rosas Blancas
+description_markdown: >-
+  
+  Una Docena de Rosas Blancas. Conforman un regalo ideal para un presente.
+
+
+
+  Una Docena de Rosas Blancas
+garment_type:
+price: '860.00'
+sku: Una Docena de Rosas Blancas
+stock: 10
+sizes:
+  - Envío incluído
+styles:
+  - name: Una Docena de Rosas Blancas
+    color: '#39589e'
+    image: /images/docen red rose.jpg
+---
