@@ -1,0 +1,20 @@
+---
+name: Docena de Rosas Rojas
+description_markdown: >-
+  
+  Docena de Rosas Rojas. Conforman un regalo ideal para un presente.
+
+
+
+  Docena de Rosas Rojas
+garment_type:
+price: '300.00'
+sku: Docena de Rosas Rojas
+stock: 10
+sizes:
+  - Envío incluído
+styles:
+  - name: Docena de Rosas Rojas
+    color: '#39589e'
+    image: /images/Rosas de colores.jpg
+---
