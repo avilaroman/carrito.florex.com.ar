@@ -1,0 +1,19 @@
+---
+name: Media Docena de Rosas Blancas
+description_markdown: >-
+  Ramo de Media Docena de Rosas Blancas. Envío a Domicilio Bonificado.
+
+
+
+  Para Regalo
+garment_type:
+price: '630.00'
+sku: Media Docena de Rosas Blancas
+stock: 10
+sizes:
+  - Envoltorio
+styles:
+  - name: Media Docena de Rosas Blancas
+    color: '#dfd3c2'
+    image: /images/6 red roses.jpg
+---
