@@ -1,17 +1,17 @@
 ---
-name: 1 Rosa Blanca Importada Con Tarjeta
+name: Una Rosa Blanca Importada Con Tarjeta
 description_markdon: >-
-  1 Rosa Blanca Importada con tarjeta de dedicación para el destinatario.
+  Una Rosa Blanca Importada con tarjeta de dedicación para el destinatario.
   
   Envoltorio de regalo, para un presente importante.
 garment_type:
 price: '260.00'
-sku: 1RosaBlancaImportada
+sku: Una Rosa Blanca Importada
 stock: 10
 sizes:
   - Preparado para regalo
 styles:
-  - name: 1 Rosa Blanca Importada
+  - name: Una Rosa Blanca Importada
     color: '#ff0000'
     image: /images/1 white rose.jpg
 ---
