@@ -6,7 +6,7 @@ description_markdon: >-
   Envoltorio de regalo, para un presente importante.
 garment_type:
 price: '260.00'
-sku: 1 Rosa Blanca Importada
+sku: 1RosaBlancaImportada
 stock: 10
 sizes:
   - Preparado para regalo
