@@ -1,7 +1,7 @@
 ---
-name: 1 Rosa Roja con tarjeta
-description_markdown: >-
-  1 Rosa Roja con tarjeta de dedicación para el destinatario.
+name: 1 Rosa Roja Importada Con Tarjeta
+description_markdon: >-
+  1 Rosa Roja Importada con tarjeta de dedicación para el destinatario.
   
   Envoltorio de regalo, para un presente importante.
 garment_type:
