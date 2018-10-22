@@ -1,17 +1,17 @@
 ---
-name: 3 Rosas Importadas Rojas Con Tarjeta
+name: Tres Rosas Rojas Importadas Con Tarjeta
 description_markdown: >-
-  3 Rosas Rojas Importadas con tarjeta de dedicación para el destinatario.
+  Tres Rosas Rojas Importadas con tarjeta de dedicación para el destinatario.
   
   Envoltorio de regalo, para un presente importante.
 garment_type:
 price: '530.00'
-sku: 3 Rosas Rojas
+sku: Tres Rosas Rojas
 stock: 10
 sizes:
   - Preparado para regalo
 styles:
-  - name: 3 Rosas roja
+  - name: Tres Rosas Rojas
     color: '#ff0000'
     image: /images/3 Red Rose.jpg
 ---
